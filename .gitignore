@@ -1,0 +1,7 @@
+*
+!wp-content
+!wp-content/themes
+!wp-content/themes/Domisy
+!wp-content/themes/Domisy/*
+!readme.md
+!.gitignore
