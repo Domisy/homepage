@@ -5,7 +5,7 @@ The theme is made to be used on wordpress.
 - - -
 #### Progress
 
-[          ]0%
+[ | | | | | | | | | ]0%
 - - -
 
 
